@@ -1,0 +1,30 @@
+[
+{
+"poid": 1,
+"titulo": "Capela Santa Luzia",
+"lat": "-23.560593487039576",
+"log": " -46.652336538631864",
+"icon": "PinIgreja"
+},
+{
+"poid": 2,
+"titulo": "Taraz",
+"lat": "-23.56001325278606",
+"log": "-46.65296149328216",
+"icon": "PinRestaurante"
+},
+{
+"poid": 3,
+"titulo": "Cidade Matarazzo",
+"lat": "-23.560127804856172",
+"log": "-46.65299587353124",
+"icon": "PinMapa"
+},
+{
+"poid": 4,
+"titulo": "Barril Heiniken",
+"lat": "-23.5700132",
+"log": "-46.66",
+"icon": "PinMapa"
+}
+]
